@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Diana Flores "
 date: "Fall semester"
 output: html_document
 ---
@@ -29,8 +29,29 @@ Music, Drawing, Languages, and food enough for seven!
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+I went to turn the grass once after one.  
+Who mowed it in the dew before the sun.    
+
+The dew was gone that made his blade so keen.    
+Before I came to view the levelled scene.    
+
+I looked for him behind an isle of trees;       
+I listened for his whetstone on the breeze.       
+
+
+
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,      
+   Shining with all his might:     
+He did his very best to make.      
+   The billows smooth and bright—        
+And this was odd, because it was.      
+   The middle of the night.       
+
+
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
